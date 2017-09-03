@@ -1,21 +1,21 @@
-±¤Àİ»ú
+å ¡å’æœº
 ==
-×÷Õß:ÍõÓî·ò    
+ä½œè€…:ç‹å®‡å¤«    
 
-## ³ÌĞò½éÉÜ:     
-    Ê¹ÓÃpython3+¡¢django1.11£¬Windows»òLinux»·¾³Ê¹ÓÃ£»
-	ÀûÓÃparamikoÔ´ÂëºÍshellinaboxÊµÏÖÁËwebµÄÖ÷»ú¹ÜÀí£»
-	ÀûÓÃparamikoºÍ¶à½ø³ÌÊµÏÖÁËÅúÁ¿ÃüÁîºÍÅúÁ¿ÎÄ¼şµÄ¹¦ÄÜ¡£
+## ç¨‹åºä»‹ç»:     
+    ä½¿ç”¨python3+ã€django1.11ï¼ŒWindowsæˆ–Linuxç¯å¢ƒä½¿ç”¨ï¼›
+	åˆ©ç”¨paramikoæºç å’Œshellinaboxå®ç°äº†webçš„ä¸»æœºç®¡ç†ï¼›
+	åˆ©ç”¨paramikoå’Œå¤šè¿›ç¨‹å®ç°äº†æ‰¹é‡å‘½ä»¤å’Œæ‰¹é‡æ–‡ä»¶çš„åŠŸèƒ½ã€‚
 	
 
-## ³ÌĞòÊ¹ÓÃ£º     
-	1¡¢ÔËĞĞdjangoÏîÄ¿
-	2¡¢µÇÂ¼ÕÊºÅ wangyufu@163.com/wangyufu1992    
+## ç¨‹åºä½¿ç”¨ï¼š     
+	1ã€è¿è¡Œdjangoé¡¹ç›®
+	2ã€ç™»å½•å¸å· wangyufu@163.com/wangyufu1992    
 	
 	
 	
-![](https://github.com/wangyufu/host_manage_web/blob/master/static/login.png)
+![](https://github.com/wangyufu/bastion_host/blob/master/static/å ¡å’æœº1.jpg)
 
-![](https://github.com/wangyufu/host_manage_web/blob/master/static/index.png)
+![](https://github.com/wangyufu/bastion_host/blob/master/static/å ¡å’æœº2.jpg)
 
-![](https://github.com/wangyufu/host_manage_web/blob/master/static/lob.png)
+![](https://github.com/wangyufu/bastion_host/blob/master/static/å ¡å’æœº3.jpg)
